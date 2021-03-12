@@ -9,7 +9,7 @@
 
 ## **Project Introduction**<br/>
   In  this project, i will analyze the interactions that users have with articles on IBM Watson Studio Platform & provide recommendations about articles they would like. Below is the example of how the user dashboard looks like displaying the articles. <br/>
-![Screenshot](IBM_Reco.jpg) <br/>
+![Screenshot](https://github.com/prasannakr/Recommendation-Engine-with-IBM-Watson/tree/Temp/Data/IBM_Reco.jpg) <br/>
 The above dashboard suggests only new articles. I will be using recommendation system using machine learning and recommend: <br/> 
   a) articles pertinent to a specific user based on history <br/>
   b) Top articles for new users <br/>
